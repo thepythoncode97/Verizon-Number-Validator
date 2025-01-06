@@ -1,11 +1,14 @@
 # Verizon Phone Number Validator
 
-![image](https://raw.githubusercontent.com/alexrony21/Verizon-Phone-Number-Validator/refs/heads/main/Verizon_Valid_Number_Checker.png)
+![image](https://raw.githubusercontent.com/alexrony21/Verizon-Phone-Number-Validator/refs/heads/main/Screenshot_312.png)
+![image](https://raw.githubusercontent.com/alexrony21/Verizon-Phone-Number-Validator/refs/heads/main/Screenshot_310.png)
+![image](https://raw.githubusercontent.com/alexrony21/Verizon-Phone-Number-Validator/refs/heads/main/Screenshot_311.png)
+![image](https://raw.githubusercontent.com/alexrony21/Verizon-Phone-Number-Validator/refs/heads/main/Screenshot_313.png)
 
 ## Features:
 1. **Fast Checking**
 2. **Accurate Result**
-3. **2k CPM**
+3. **20k CPM**
 4. **Auto Proxy**
 
 ## Contact:
